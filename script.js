@@ -11,10 +11,3 @@ function startDanaPayment() {
     // You can replace this with actual payment logic
     window.location.href = "paydana.html"; // Change to actual DANA payment URL
 }
-
-function startGopayPayment() {
-    // Simulate payment logic for GOPAY
-    alert("Redirecting to GOPAY payment...");
-    // You can replace this with actual payment logic
-    window.location.href = "paygopay.html"; // Change to actual GOPAY payment URL
-}
