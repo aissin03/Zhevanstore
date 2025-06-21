@@ -114,14 +114,14 @@ body {
   border: none;
   border-radius: 25px;
   background-color: #ffffff;
-  color: #2d2dff;
+  color: #8B4513;
   font-weight: bold;
   cursor: pointer;
   transition: background-color 0.3s, color 0.3s;
 }
 
 .payment-option button:hover {
-  background-color: #2d2dff;
+  background-color: #8B4513;
   color: #ffffff;
 }
 
