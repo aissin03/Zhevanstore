@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(135deg, #2d2dff, #00c2ff);
+  background: linear-gradient(135deg, #8B4513, #8B4513);
   color: white;
   overflow-x: hidden;
   animation: fadeInBody 1s ease-in-out;
@@ -28,7 +28,7 @@ body {
   max-width: 600px;
   margin: 60px auto;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(139, 69, 19);
   border-radius: 20px;
   backdrop-filter: blur(10px);
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
