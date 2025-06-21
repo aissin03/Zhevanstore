@@ -1,4 +1,4 @@
-/* Reset dan gaya dasar */
+tl/* Reset dan gaya dasar */
 * {
   margin: 0;
   padding: 0;
@@ -69,7 +69,7 @@ body {
 }
 
 .payment-option {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(139, 69, 19);
   border-radius: 15px;
   padding: 20px;
   width: 250px;
@@ -126,7 +126,7 @@ body {
 }
 
 footer {
-  background: linear-gradient(135deg, #2d2dff, #00c2ff);
+  background: linear-gradient(135deg, #8B4513, #8B4513);
   color: white;
   padding: 20px;
   text-align: center;
